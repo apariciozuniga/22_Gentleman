@@ -1,0 +1,75 @@
+.text-red{
+	color: red;
+}
+*{
+
+}
+.black{
+	background-color: black;
+	color: white;
+	padding: 4%;
+	margin-bottom: 2%;
+	padding: 2%;
+}
+li{
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 30px;
+}
+.imagen{
+	margin-top: 10px;
+}
+.btn{
+	background-color: black;
+	padding: 3%;
+	border-radius: 10%;
+	margin-left: 30%;
+	margin-top: 10%;
+	opacity: 0.9;
+}
+.list{
+
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+}
+.nav{
+	text-decoration: none;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.btn1{
+	padding: 1%;
+	border-radius: 15%;
+	margin-left: 42%;
+	margin-top: 10%;
+	background-color: black;
+	opacity: 0.9;
+	color: white;
+	margin-bottom: 4%;
+}
+.webs{
+
+	margin-left: 1px;
+	
+}
+.btnred{
+	padding: 1%;
+	border-radius: 10%;
+	margin-left: 45%;
+	background-color: red;
+}
+.top{
+	margin-bottom: 5%;
+}
+.email{
+	color: red;
+	font-style: italic;
+}
+.fondo{
+	background-color: white;
+}
