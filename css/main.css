@@ -1,9 +1,7 @@
 .text-red{
 	color: red;
 }
-*{
 
-}
 .black{
 	background-color: #262626;
 	color: gray;
@@ -59,7 +57,7 @@ a{
 }
 .webs{
 
-	margin-left: 1px;
+
 	
 }
 .btnred{
@@ -81,4 +79,14 @@ a{
 .top1{
 	margin-bottom: 4%;
 	margin-top: 4%;
+}
+.heart{
+	display: inline-block;
+	color: gray;
+	margin-left: 3%;
+}
+.circle{
+	border-radius: 100%;
+	border: 2px dashed gray;
+	padding: 3%;
 }
